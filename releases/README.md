@@ -5,7 +5,7 @@ This folder contains packaged versions of the Prizo extension ready for installa
 ## How to Install
 
 ### Chrome/Edge/Brave
-1. Download the latest `.zip` file from the [Releases page](https://github.com/YOUR_USERNAME/prizo-extension/releases)
+1. Download the latest `.zip` file from the [Releases page](https://github.com/zanasaed/prizo-extension/releases)
 2. Extract the zip file to a permanent location on your computer
 3. Open your browser and navigate to:
    - Chrome: `chrome://extensions/`
@@ -17,7 +17,7 @@ This folder contains packaged versions of the Prizo extension ready for installa
 7. The Prizo extension should now appear in your extensions list
 
 ### Firefox
-1. Download the latest `.zip` file or `.xpi` file from the [Releases page](https://github.com/YOUR_USERNAME/prizo-extension/releases)
+1. Download the latest `.zip` file or `.xpi` file from the [Releases page](https://github.com/zanasaed/prizo-extension/releases)
 2. Open Firefox and navigate to `about:addons`
 3. Click the gear icon and select "Install Add-on From File..."
 4. Select the downloaded `.xpi` or `.zip` file

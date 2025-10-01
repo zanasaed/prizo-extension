@@ -26,3 +26,7 @@ $RECYCLE.BIN/
 
 # Logs
 *.log
+
+# Setup and repository documentation
+SETUP_INSTRUCTIONS.md
+REPOSITORY_READY.md

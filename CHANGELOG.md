@@ -130,6 +130,6 @@
 
 <div align="center" dir="rtl">
 
-برای دانلود آخرین نسخه به صفحه [Releases](https://github.com/YOUR_USERNAME/prizo-extension/releases) مراجعه کنید.
+برای دانلود آخرین نسخه به صفحه [Releases](https://github.com/zanasaed/prizo-extension/releases) مراجعه کنید.
 
 </div>

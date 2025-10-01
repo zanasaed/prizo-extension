@@ -12,7 +12,7 @@
 
 <div dir="rtl">
 
-اگر باگی پیدا کردید، لطفاً یک [Issue جدید](https://github.com/YOUR_USERNAME/prizo-extension/issues/new) ایجاد کنید و اطلاعات زیر را شامل شود:
+اگر باگی پیدا کردید، لطفاً یک [Issue جدید](https://github.com/zanasaed/prizo-extension/issues/new) ایجاد کنید و اطلاعات زیر را شامل شود:
 
 - **توضیح مشکل**: توضیح دقیق مشکلی که با آن مواجه شدید
 - **مراحل بازتولید**: مراحل دقیق برای بازتولید مشکل
@@ -33,7 +33,7 @@
 
 برای پیشنهاد امکانات جدید:
 
-1. ابتدا [Issues موجود](https://github.com/YOUR_USERNAME/prizo-extension/issues) را بررسی کنید تا مطمئن شوید پیشنهاد شما تکراری نیست
+1. ابتدا [Issues موجود](https://github.com/zanasaed/prizo-extension/issues) را بررسی کنید تا مطمئن شوید پیشنهاد شما تکراری نیست
 2. یک Issue جدید با برچسب "enhancement" ایجاد کنید
 3. توضیح دهید که چرا این امکان مفید است
 4. نحوه عملکرد پیشنهادی را شرح دهید
@@ -64,7 +64,7 @@
 اگر آسیب‌پذیری امنیتی پیدا کردید، لطفاً **به صورت عمومی گزارش نکنید**.
 
 به جای آن:
-- مستقیماً از طریق ایمیل با ما تماس بگیرید: your.email@example.com
+- مستقیماً از طریق ایمیل با ما تماس بگیرید: zanadeveloper@gmail.com
 - جزئیات کامل مشکل را توضیح دهید
 - ما در اسرع وقت پاسخ خواهیم داد
 
@@ -79,7 +79,7 @@
 اگر سوالی دارید:
 
 1. ابتدا [README.md](README.md) را مطالعه کنید
-2. [Issues موجود](https://github.com/YOUR_USERNAME/prizo-extension/issues) را جستجو کنید
+2. [Issues موجود](https://github.com/zanasaed/prizo-extension/issues) را جستجو کنید
 3. اگر پاسخ خود را پیدا نکردید، یک Issue جدید با برچسب "question" ایجاد کنید
 
 </div>

@@ -75,7 +75,7 @@ _تصاویر نمایشی به زودی اضافه می‌شوند_
 
 ### برای Chrome، Edge، Brave
 
-1. آخرین نسخه را از صفحه [Releases](https://github.com/YOUR_USERNAME/prizo-extension/releases) دانلود کنید
+1. آخرین نسخه را از صفحه [Releases](https://github.com/zanasaed/prizo-extension/releases) دانلود کنید
 2. فایل zip را در یک مکان دائمی استخراج کنید
 3. مرورگر خود را باز کرده و به آدرس زیر بروید:
    - Chrome: `chrome://extensions/`
@@ -88,7 +88,7 @@ _تصاویر نمایشی به زودی اضافه می‌شوند_
 
 ### برای Firefox
 
-1. آخرین نسخه `.xpi` یا `.zip` را از صفحه [Releases](https://github.com/YOUR_USERNAME/prizo-extension/releases) دانلود کنید
+1. آخرین نسخه `.xpi` یا `.zip` را از صفحه [Releases](https://github.com/zanasaed/prizo-extension/releases) دانلود کنید
 2. Firefox را باز کرده و به `about:addons` بروید
 3. روی آیکون چرخ‌دنده کلیک کرده و "Install Add-on From File..." را انتخاب کنید
 4. فایل دانلود شده را انتخاب کنید
@@ -153,16 +153,18 @@ _تصاویر نمایشی به زودی اضافه می‌شوند_
 <div dir="rtl">
 
 ### گزارش مشکلات
-اگر مشکلی پیدا کردید یا پیشنهادی دارید، لطفاً از طریق [GitHub Issues](https://github.com/YOUR_USERNAME/prizo-extension/issues) با ما در میان بگذارید.
+اگر مشکلی پیدا کردید یا پیشنهادی دارید، لطفاً از طریق [GitHub Issues](https://github.com/zanasaed/prizo-extension/issues) با ما در میان بگذارید.
 
 ### حمایت مالی
 اگر از این افزونه استفاده می‌کنید و می‌خواهید از توسعه آن حمایت کنید:
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/YOUR_USERNAME)
+☕ [Buy Me a Coffee](https://www.coffeebede.com/zanasaed)
 
 💙 یا از طریق کریپتو:
-- **Bitcoin (BTC)**: `YOUR_BTC_ADDRESS`
-- **Ethereum (ETH)**: `YOUR_ETH_ADDRESS`
+- **Bitcoin (BTC)**: `bc1qlf5rq26hfw95acrrxkjh4atezksxcvsx73qnsd`
+- **Ethereum (ETH)**: `0x0F15d9fCD78C303868B8D36862504feD1A935aCC`
+- **Polygon (POL)**: `0x0F15d9fCD78C303868B8D36862504feD1A935aCC`
+- **SOLANA (SOL)**: `Cr7cxHZqnSz1t5YWxdNTzJ3ZcEZ1DyZ9dfez7E1qTWjh`
 
 </div>
 
@@ -174,8 +176,8 @@ _تصاویر نمایشی به زودی اضافه می‌شوند_
 
 **Zana Saedpanah**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@zanasaed](https://github.com/zanasaed)
+- Email: zanadeveloper@gmail.com
 
 </div>
 
@@ -189,22 +191,7 @@ _تصاویر نمایشی به زودی اضافه می‌شوند_
 
 </div>
 
----
 
-## 🙏 Acknowledgments | تشکر و قدردانی
-
-<div dir="rtl">
-
-- از تیم دیجی‌کالا برای ارائه پلتفرم عالی خرید آنلاین
-- از کاربران عزیز که با بازخوردهای خود به بهبود این افزونه کمک می‌کنند
-
-</div>
-
----
-
-<div align="center" dir="rtl">
-
-**ساخته شده با ❤️ برای کاربران ایرانی**
 
 [⬆ بازگشت به بالا](#-prizo---دستیار-قیمتیابی-دیجیکالا)
 
