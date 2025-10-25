@@ -8,38 +8,16 @@
             "widgets": [
                 {
                     "id": "affilio_banner_1",
-                    "type": "affilio_banner",
+                    "type": "affilio_raw",
                     "title": "بنر تبلیغاتی ویژه",
-                    "containerClass": "affilio-widget-container",
-                    "scriptId": "affilio_5526819943348251333",
-                    "widgetConfig": {
-                        "autosize": true,
-                        "container_id": "affilio_5526819943348251333",
-                        "widget_type": "BannerWidget",
-                        "widget_id": "5523374828918937633",
-                        "redirect_type": "ProductPage",
-                        "url": "",
-                        "is_smart": false
-                    },
-                    "scriptSrc": "https://widget.affilio.ir/lib.js?5526819943348251333",
+                    "rawHTML": "<div class=\"affilio-widget-container\"><div id=\"affilio_5146217288229257128\"></div></div><script type=\"text/javascript\">!function(i,t,o,d,f,n,r){function a(){Affilio&&Affilio.widget(r)}i[n]?a():(s=t.createElement(o),s.id=\"AFF\",s.async=!0,s.src=\"https://widget.affilio.ir/lib.js?5146217288229257128\",s.onload=function(){i[n]=Affilio,a()},e=t.getElementsByTagName(o)[0],e.parentNode.insertBefore(s,void 0))}(window,document,\"script\",0,0,\"$affilio\",{autosize:!0,container_id:\"affilio_5146217288229257128\",widget_type:\"BannerWidget\",widget_id:\"5523374828918937633\",redirect_type:\"ProductPage\",url:\"\",is_smart:!1})</script>",
                     "priority": 1
                 },
                 {
                     "id": "affilio_products_1",
-                    "type": "affilio_product",
+                    "type": "affilio_raw",
                     "title": "محصولات پیشنهادی",
-                    "containerClass": "affilio-widget-container",
-                    "scriptId": "affilio_4654407272021652684",
-                    "widgetConfig": {
-                        "autosize": true,
-                        "container_id": "affilio_4654407272021652684",
-                        "widget_type": "ProductWidget",
-                        "widget_id": "5375952345491856513",
-                        "redirect_type": "ProductPage",
-                        "url": "",
-                        "is_smart": true
-                    },
-                    "scriptSrc": "https://widget.affilio.ir/lib.js?4654407272021652684",
+                    "rawHTML": "<div class=\"affilio-widget-container\"><div id=\"affilio_4654407272021652684\"></div></div><script type=\"text/javascript\">!function(i,t,o,d,f,n,r){function a(){Affilio&&Affilio.widget(r)}i[n]?a():(s=t.createElement(o),s.id=\"AFF_PROD\",s.async=!0,s.src=\"https://widget.affilio.ir/lib.js?4654407272021652684\",s.onload=function(){i[n]=Affilio,a()},e=t.getElementsByTagName(o)[0],e.parentNode.insertBefore(s,void 0))}(window,document,\"script\",0,0,\"$affilio\",{autosize:!0,container_id:\"affilio_4654407272021652684\",widget_type:\"ProductWidget\",widget_id:\"5375952345491856513\",redirect_type:\"ProductPage\",url:\"\",is_smart:!0})</script>",
                     "priority": 2
                 },
                 {
@@ -77,15 +55,6 @@
                     "name": "ارش ارش",
                     "url": "https://www.digikala.com/wishlist/1cdgiuop/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/1cdgiuop/?wishListCode=1cdgiuop&page={page}",
-                    "enabled": true,
-                    "maxPages": 5,
-                    "cacheTimeout": 3600000
-                },
-                {
-                    "id": "ihoirkfc",
-                    "name": "مکمل",
-                    "url": "https://www.digikala.com/wishlist/ihoirkfc/",
-                    "apiUrl": "https://api.digikala.com/v1/public-list/ihoirkfc/?wishListCode=ihoirkfc&page={page}",
                     "enabled": true,
                     "maxPages": 5,
                     "cacheTimeout": 3600000
@@ -145,6 +114,6 @@
         "enableLazyLoading": true,
         "lazyLoadThreshold": 10,
         "errorDisplay": "inline",
-        "fallbackImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Crect fill='%23f0f0f0' width='200' height='200'/%3E%3Ctext fill='%23999' font-family='sans-serif' font-size='14' x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle'%3Eتصویر موجود نیست%3C/text%3E%3C/svg%3E"
+        "fallbackImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Crect fill='%23f0f0f0' width='200' height='200'/%3E%3Ctext fill='%23999' font-family='sans-serif' font-size='14' x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle'%3E تصویر موجود نیست%3C/text%3E%3C/svg%3E"
     }
 }
