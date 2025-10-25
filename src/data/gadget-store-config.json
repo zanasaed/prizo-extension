@@ -51,7 +51,7 @@
             "description": "محصولات از لیست علاقه‌مندی   دیجی‌کالا",
             "wishlists": [
                 {
-                    "id": "1cdgiuop",
+                    "id": "5vtrnjmo",
                     "name": "لوازم خانگی 🏠🧺",
                     "url": "https://www.digikala.com/wishlist/5vtrnjmo/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/5vtrnjmo/?wishListCode=5vtrnjmo&page={page}",
@@ -60,7 +60,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "qjld0g8r",
                     "name": "دیجیتال 💻📱",
                     "url": "https://www.digikala.com/wishlist/qjld0g8r/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/qjld0g8r/?wishListCode=qjld0g8r&page={page}",
@@ -69,7 +69,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "k738k8kw",
                     "name": "ورزشی 🏋️‍♂️⚽",
                     "url": "https://www.digikala.com/wishlist/k738k8kw/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/k738k8kw/?wishListCode=k738k8kw&page={page}",
@@ -78,7 +78,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "71wkkgzu",
                     "name": "خودرو 🚗🔋",
                     "url": "https://www.digikala.com/wishlist/71wkkgzu/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/71wkkgzu/?wishListCode=71wkkgzu&page={page}",
@@ -87,7 +87,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "v48v5u6j",
                     "name": "سلامت 💊🩺",
                     "url": "https://www.digikala.com/wishlist/v48v5u6j/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/v48v5u6j/?wishListCode=v48v5u6j&page={page}",
@@ -96,7 +96,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "l0h2a1qf",
                     "name": "ابزارآلات 🔧🛠️",
                     "url": "https://www.digikala.com/wishlist/l0h2a1qf/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/l0h2a1qf/?wishListCode=l0h2a1qf&page={page}",
@@ -105,7 +105,7 @@
                     "cacheTimeout": 3600000
                 },
                 {
-                    "id": "1cdgiuop",
+                    "id": "rqklmaq1",
                     "name": "شوخی و سرگرمی 😂🎉",
                     "url": "https://www.digikala.com/wishlist/rqklmaq1/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/rqklmaq1/?wishListCode=rqklmaq1&page={page}",
