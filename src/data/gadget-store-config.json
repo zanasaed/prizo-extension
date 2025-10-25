@@ -48,13 +48,67 @@
         "digiWishlist": {
             "enabled": true,
             "title": "لیست دیجی‌کالا",
-            "description": "محصولات از لیست علاقه‌مندی عمومی دیجی‌کالا",
+            "description": "محصولات از لیست علاقه‌مندی   دیجی‌کالا",
             "wishlists": [
                 {
                     "id": "1cdgiuop",
-                    "name": "ارش ارش",
-                    "url": "https://www.digikala.com/wishlist/1cdgiuop/",
-                    "apiUrl": "https://api.digikala.com/v1/public-list/1cdgiuop/?wishListCode=1cdgiuop&page={page}",
+                    "name": "لوزام خانگی",
+                    "url": "https://www.digikala.com/wishlist/5vtrnjmo/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/5vtrnjmo/?wishListCode=5vtrnjmo&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "دیجیتال",
+                    "url": "https://www.digikala.com/wishlist/qjld0g8r/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/qjld0g8r/?wishListCode=qjld0g8r&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "ورزشی",
+                    "url": "https://www.digikala.com/wishlist/k738k8kw/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/k738k8kw/?wishListCode=k738k8kw&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "خودرو",
+                    "url": "https://www.digikala.com/wishlist/71wkkgzu/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/71wkkgzu/?wishListCode=71wkkgzu&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "سلامت",
+                    "url": "https://www.digikala.com/wishlist/v48v5u6j/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/v48v5u6j/?wishListCode=v48v5u6j&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "ابزآلات",
+                    "url": "https://www.digikala.com/wishlist/l0h2a1qf/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/l0h2a1qf/?wishListCode=l0h2a1qf&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                },
+                {
+                    "id": "1cdgiuop",
+                    "name": "شوخی و سرگرمی",
+                    "url": "https://www.digikala.com/wishlist/rqklmaq1/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/rqklmaq1/?wishListCode=rqklmaq1&page={page}",
                     "enabled": true,
                     "maxPages": 5,
                     "cacheTimeout": 3600000
