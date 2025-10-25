@@ -27,17 +27,17 @@
                     "description": "بهترین محصولات تکنولوژی انتخاب شده توسط تیم ما",
                     "products": [
                         {
-                            "title": "هدفون بی‌سیم سونی",
-                            "url": "https://www.digikala.com/product/dkp-123456/",
-                            "image": "https://dkstatics-public.digikala.com/digikala-products/sample.jpg",
+                            "title": "گوشی شیائومی Redmi Note 14 4G رجیستر‌شده دو سیم‌کارت 256 گیگابایت با رم 8 گیگابایت",
+                            "url": "https://dgkl.io/api/v1/Click/gkBwE",
+                            "image": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80",
                             "site": "digikala",
                             "featured": true
                         },
                         {
-                            "title": "ساعت هوشمند شیائومی",
-                            "url": "https://www.technolife.com/product/xiaomi-watch",
-                            "image": "",
-                            "site": "technolife",
+                            "title": "جعبه نظم دهنده داخل خودرو ژوس ZS-CA-002",
+                            "url": "https://migmig.affilio.ir/api/v1/Click/HC1Iu",
+                            "image": "https://janebi.com/janebi/9fd2/files/thumb/435370.jpg 1x",
+                            "site": "janebi",
                             "featured": true
                         }
                     ],
