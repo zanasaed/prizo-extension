@@ -1,127 +1,141 @@
 {
     "version": "1.0.0",
-    "lastUpdated": "2025-10-25T00:00:00Z",
-    "globalSettings": {
-        "cacheTTL": 3600,
-        "lazyLoad": true,
-        "errorRetry": 3,
-        "pagination": 20,
-        "rtl": true,
-        "theme": "light"
-    },
-    "home": {
-        "title": "صفحه اصلی",
-        "description": "مرکز پیشنهادها و محصولات ویژه از فروشگاه‌های همکار",
-        "widgets": [
-            {
-                "id": "affilio_banner_1",
-                "type": "banner",
-                "source": "https://widget.affilio.ir/api/v1/banner?slot=home_top",
-                "fallback": "https://cdn.example.com/banners/default-home.jpg",
-                "priority": 1
-            },
-            {
-                "id": "affilio_featured",
-                "type": "productWidget",
-                "source": "https://widget.affilio.ir/api/v1/products?category=gadgets&limit=12",
-                "priority": 2
-            },
-            {
-                "id": "custom_amazing",
-                "type": "customList",
-                "title": "محصولات شگفت‌انگیز دیجی‌کالا",
-                "items": [
-                    "https://www.digikala.com/product/dkp-712345",
-                    "https://www.digikala.com/product/dkp-834561",
-                    "https://www.digikala.com/product/dkp-992881"
-                ],
-                "priority": 3
+    "lastUpdated": "2025-10-25",
+    "sections": {
+        "home": {
+            "enabled": true,
+            "title": "صفحه اصلی",
+            "widgets": [
+                {
+                    "id": "affilio_banner_1",
+                    "type": "affilio_banner",
+                    "title": "بنر تبلیغاتی ویژه",
+                    "containerClass": "affilio-widget-container",
+                    "scriptId": "affilio_5526819943348251333",
+                    "widgetConfig": {
+                        "autosize": true,
+                        "container_id": "affilio_5526819943348251333",
+                        "widget_type": "BannerWidget",
+                        "widget_id": "5523374828918937633",
+                        "redirect_type": "ProductPage",
+                        "url": "",
+                        "is_smart": false
+                    },
+                    "scriptSrc": "https://widget.affilio.ir/lib.js?5526819943348251333",
+                    "priority": 1
+                },
+                {
+                    "id": "affilio_products_1",
+                    "type": "affilio_product",
+                    "title": "محصولات پیشنهادی",
+                    "containerClass": "affilio-widget-container",
+                    "scriptId": "affilio_4654407272021652684",
+                    "widgetConfig": {
+                        "autosize": true,
+                        "container_id": "affilio_4654407272021652684",
+                        "widget_type": "ProductWidget",
+                        "widget_id": "5375952345491856513",
+                        "redirect_type": "ProductPage",
+                        "url": "",
+                        "is_smart": true
+                    },
+                    "scriptSrc": "https://widget.affilio.ir/lib.js?4654407272021652684",
+                    "priority": 2
+                },
+                {
+                    "id": "custom_featured_1",
+                    "type": "custom_featured",
+                    "title": "گجت‌های برگزیده",
+                    "description": "بهترین محصولات تکنولوژی انتخاب شده توسط تیم ما",
+                    "products": [
+                        {
+                            "title": "هدفون بی‌سیم سونی",
+                            "url": "https://www.digikala.com/product/dkp-123456/",
+                            "image": "https://dkstatics-public.digikala.com/digikala-products/sample.jpg",
+                            "site": "digikala",
+                            "featured": true
+                        },
+                        {
+                            "title": "ساعت هوشمند شیائومی",
+                            "url": "https://www.technolife.com/product/xiaomi-watch",
+                            "image": "",
+                            "site": "technolife",
+                            "featured": true
+                        }
+                    ],
+                    "priority": 3
+                }
+            ]
+        },
+        "digiWishlist": {
+            "enabled": true,
+            "title": "لیست دیجی‌کالا",
+            "description": "محصولات از لیست علاقه‌مندی عمومی دیجی‌کالا",
+            "wishlists": [
+                {
+                    "id": "1cdgiuop",
+                    "name": "ارش ارش",
+                    "url": "https://www.digikala.com/wishlist/1cdgiuop/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/1cdgiuop/?wishListCode=1cdgiuop&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
+                }
+            ],
+            "settings": {
+                "itemsPerPage": 20,
+                "showOutOfStock": false,
+                "sortBy": "newest",
+                "enablePagination": true
             }
-        ]
-    },
-    "digiWishlist": {
-        "title": "لیست علاقه‌مندی دیجی‌کالا",
-        "description": "محصولات محبوب کاربران از دیجی‌کالا",
-        "wishlists": [
-            {
-                "id": "main_wishlist",
-                "name": "لیست اصلی من",
-                "source": "https://www.digikala.com/wishlist/public/8f23jkl2b9/",
-                "enabled": true,
-                "cacheTTL": 1800
-            },
-            {
-                "id": "tech_wishlist",
-                "name": "گجت و تکنولوژی",
-                "source": "https://www.digikala.com/wishlist/public/4jk289dlq1/",
-                "enabled": true,
-                "cacheTTL": 1800
+        },
+        "handmadeList": {
+            "enabled": true,
+            "title": "لیست دستچین",
+            "description": "محصولات انتخابی از سایت‌های مختلف",
+            "products": [
+                {
+                    "id": "handmade_001",
+                    "title": "کیبورد مکانیکی",
+                    "url": "https://www.digikala.com/product/dkp-2809841/",
+                    "site": "digikala",
+                    "category": "لوازم جانبی کامپیوتر",
+                    "tags": [
+                        "gaming",
+                        "keyboard",
+                        "mechanical"
+                    ],
+                    "enabled": true
+                },
+                {
+                    "id": "handmade_002",
+                    "title": "موس گیمینگ",
+                    "url": "https://www.technolife.com/product/gaming-mouse",
+                    "site": "technolife",
+                    "category": "لوازم جانبی کامپیوتر",
+                    "tags": [
+                        "gaming",
+                        "mouse"
+                    ],
+                    "enabled": true
+                }
+            ],
+            "settings": {
+                "autoUpdate": true,
+                "updateInterval": 86400000,
+                "validateLinks": true
             }
-        ],
-        "filters": {
-            "hideOutOfStock": true,
-            "searchEnabled": true,
-            "pagination": 12
         }
     },
-    "handmadeList": {
-        "title": "لیست اختصاصی محصولات منتخب",
-        "description": "لیستی از محصولات خاص از فروشگاه‌های مختلف",
-        "categories": [
-            {
-                "id": "smart_devices",
-                "title": "دستگاه‌های هوشمند",
-                "tags": [
-                    "خانه هوشمند",
-                    "کنترل از راه دور"
-                ],
-                "products": [
-                    {
-                        "title": "لامپ هوشمند شیائومی",
-                        "url": "https://www.digikala.com/product/dkp-1234567",
-                        "site": "دیجی‌کالا",
-                        "image": "https://dkstatics-public.digikala.com/digikala-products/123456.jpg",
-                        "price": "1850000",
-                        "tags": [
-                            "شیائومی",
-                            "لامپ",
-                            "خانه‌هوشمند"
-                        ]
-                    },
-                    {
-                        "title": "سوکت وای‌فای Gosund",
-                        "url": "https://www.amazon.com/dp/B07Z7WQJHF",
-                        "site": "Amazon",
-                        "image": "https://m.media-amazon.com/images/I/41f89hzsADS._AC_SL1000_.jpg",
-                        "price": "$22.99",
-                        "tags": [
-                            "Gosund",
-                            "Smart Plug"
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "accessories",
-                "title": "اکسسوری و لوازم جانبی",
-                "tags": [
-                    "پرفروش",
-                    "کاربردی"
-                ],
-                "products": [
-                    {
-                        "title": "پایه نگهدارنده موبایل رومیزی",
-                        "url": "https://www.digikala.com/product/dkp-4568912",
-                        "site": "دیجی‌کالا",
-                        "image": "https://dkstatics-public.digikala.com/digikala-products/4568912.jpg",
-                        "price": "780000",
-                        "tags": [
-                            "پایه موبایل",
-                            "اکسسوری"
-                        ]
-                    }
-                ]
-            }
-        ]
+    "globalSettings": {
+        "enableCache": true,
+        "cacheExpiry": 3600000,
+        "maxRetries": 3,
+        "retryDelay": 1000,
+        "showLoadingIndicators": true,
+        "enableLazyLoading": true,
+        "lazyLoadThreshold": 10,
+        "errorDisplay": "inline",
+        "fallbackImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Crect fill='%23f0f0f0' width='200' height='200'/%3E%3Ctext fill='%23999' font-family='sans-serif' font-size='14' x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle'%3Eتصویر موجود نیست%3C/text%3E%3C/svg%3E"
     }
 }
