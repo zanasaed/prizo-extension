@@ -52,7 +52,7 @@
             "wishlists": [
                 {
                     "id": "1cdgiuop",
-                    "name": "لوزام خانگی",
+                    "name": "لوازم خانگی 🏠🧺",
                     "url": "https://www.digikala.com/wishlist/5vtrnjmo/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/5vtrnjmo/?wishListCode=5vtrnjmo&page={page}",
                     "enabled": true,
@@ -61,7 +61,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "دیجیتال",
+                    "name": "دیجیتال 💻📱",
                     "url": "https://www.digikala.com/wishlist/qjld0g8r/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/qjld0g8r/?wishListCode=qjld0g8r&page={page}",
                     "enabled": true,
@@ -70,7 +70,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "ورزشی",
+                    "name": "ورزشی 🏋️‍♂️⚽",
                     "url": "https://www.digikala.com/wishlist/k738k8kw/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/k738k8kw/?wishListCode=k738k8kw&page={page}",
                     "enabled": true,
@@ -79,7 +79,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "خودرو",
+                    "name": "خودرو 🚗🔋",
                     "url": "https://www.digikala.com/wishlist/71wkkgzu/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/71wkkgzu/?wishListCode=71wkkgzu&page={page}",
                     "enabled": true,
@@ -88,7 +88,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "سلامت",
+                    "name": "سلامت 💊🩺",
                     "url": "https://www.digikala.com/wishlist/v48v5u6j/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/v48v5u6j/?wishListCode=v48v5u6j&page={page}",
                     "enabled": true,
@@ -97,7 +97,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "ابزآلات",
+                    "name": "ابزارآلات 🔧🛠️",
                     "url": "https://www.digikala.com/wishlist/l0h2a1qf/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/l0h2a1qf/?wishListCode=l0h2a1qf&page={page}",
                     "enabled": true,
@@ -106,7 +106,7 @@
                 },
                 {
                     "id": "1cdgiuop",
-                    "name": "شوخی و سرگرمی",
+                    "name": "شوخی و سرگرمی 😂🎉",
                     "url": "https://www.digikala.com/wishlist/rqklmaq1/",
                     "apiUrl": "https://api.digikala.com/v1/public-list/rqklmaq1/?wishListCode=rqklmaq1&page={page}",
                     "enabled": true,
