@@ -80,6 +80,15 @@
                     "enabled": true,
                     "maxPages": 5,
                     "cacheTimeout": 3600000
+                },
+                {
+                    "id": "ihoirkfc",
+                    "name": "مکمل",
+                    "url": "https://www.digikala.com/wishlist/ihoirkfc/",
+                    "apiUrl": "https://api.digikala.com/v1/public-list/ihoirkfc/?wishListCode=ihoirkfc&page={page}",
+                    "enabled": true,
+                    "maxPages": 5,
+                    "cacheTimeout": 3600000
                 }
             ],
             "settings": {
