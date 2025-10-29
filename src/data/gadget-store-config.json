@@ -5,43 +5,23 @@
         "home": {
             "enabled": true,
             "title": "صفحه اصلی",
+            "banners": [
+                {
+                    "widget_id": "5523374828918937633",
+                    "container_id": "affilio_5679228794611297293",
+                    "type": "BannerWidget",
+                    "script_src": "https://widget.affilio.ir/lib.js?5679228794611297293"
+                }
+            ],
             "widgets": [
                 {
-                    "id": "affilio_banner_1",
-                    "type": "affilio_raw",
-                    "title": "بنر تبلیغاتی ویژه",
-                    "rawHTML": "<div class=\"affilio-widget-container\"><div id=\"affilio_5146217288229257128\"></div></div><script type=\"text/javascript\">!function(i,t,o,d,f,n,r){function a(){Affilio&&Affilio.widget(r)}i[n]?a():(s=t.createElement(o),s.id=\"AFF\",s.async=!0,s.src=\"https://widget.affilio.ir/lib.js?5146217288229257128\",s.onload=function(){i[n]=Affilio,a()},e=t.getElementsByTagName(o)[0],e.parentNode.insertBefore(s,void 0))}(window,document,\"script\",0,0,\"$affilio\",{autosize:!0,container_id:\"affilio_5146217288229257128\",widget_type:\"BannerWidget\",widget_id:\"5523374828918937633\",redirect_type:\"ProductPage\",url:\"\",is_smart:!1})</script>",
-                    "priority": 1
-                },
-                {
-                    "id": "affilio_products_1",
-                    "type": "affilio_raw",
+                    "widget_id": "4696259076390136968",
+                    "container_id": "affilio_5387298556403340230",
+                    "type": "ProductWidget",
                     "title": "محصولات پیشنهادی",
-                    "rawHTML": "<div class=\"affilio-widget-container\"><div id=\"affilio_4654407272021652684\"></div></div><script type=\"text/javascript\">!function(i,t,o,d,f,n,r){function a(){Affilio&&Affilio.widget(r)}i[n]?a():(s=t.createElement(o),s.id=\"AFF_PROD\",s.async=!0,s.src=\"https://widget.affilio.ir/lib.js?4654407272021652684\",s.onload=function(){i[n]=Affilio,a()},e=t.getElementsByTagName(o)[0],e.parentNode.insertBefore(s,void 0))}(window,document,\"script\",0,0,\"$affilio\",{autosize:!0,container_id:\"affilio_4654407272021652684\",widget_type:\"ProductWidget\",widget_id:\"5375952345491856513\",redirect_type:\"ProductPage\",url:\"\",is_smart:!0})</script>",
-                    "priority": 2
-                },
-                {
-                    "id": "custom_featured_1",
-                    "type": "custom_featured",
-                    "title": "گجت‌های برگزیده",
-                    "description": "بهترین محصولات تکنولوژی انتخاب شده توسط تیم ما",
-                    "products": [
-                        {
-                            "title": "گوشی شیائومی Redmi Note 14 4G رجیستر‌شده دو سیم‌کارت 256 گیگابایت با رم 8 گیگابایت",
-                            "url": "https://dgkl.io/api/v1/Click/gkBwE",
-                            "image": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80",
-                            "site": "digikala",
-                            "featured": true
-                        },
-                        {
-                            "title": "جعبه نظم دهنده داخل خودرو ژوس ZS-CA-002",
-                            "url": "https://migmig.affilio.ir/api/v1/Click/HC1Iu",
-                            "image": "https://janebi.com/janebi/9fd2/files/thumb/435370.jpg 1x",
-                            "site": "janebi",
-                            "featured": true
-                        }
-                    ],
-                    "priority": 3
+                    "store": "digikala",
+                    "category": "electronics",
+                    "script_src": "https://widget.affilio.ir/lib.js?5387298556403340230"
                 }
             ]
         },
