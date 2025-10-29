@@ -9,14 +9,47 @@
                 {
                     "id": "banner_1",
                     "title": "بنر تبلیغاتی اصلی",
-                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5427352525072379294'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5427352525072379294'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5427352525072379294',widget_type:'BannerWidget',widget_id: '5523374828918937633',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5220418751877174161'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5220418751877174161'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5220418751877174161',widget_type:'BannerWidget',widget_id: '5349358080724972613',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
+                },
+                {
+                    "id": "banner_2",
+                    "title": "فصل پاییزه، قیمت‌ها می‌ریزه!",
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5749226988824738990'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5749226988824738990'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5749226988824738990',widget_type:'BannerWidget',widget_id: '5720799954924634479',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
+                },
+                {
+                    "id": "banner_3",
+                    "title": "انواع پاوربانک",
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5741350000445470370'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5741350000445470370'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5741350000445470370',widget_type:'BannerWidget',widget_id: '4849375021743669564',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
+                },
+                {
+                    "id": "banner_4",
+                    "title": "محصولات خانه هوشمند",
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5344955202043615996'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5344955202043615996'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5344955202043615996',widget_type:'BannerWidget',widget_id: '5030892943396028893',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
                 }
             ],
-            "widgets": [
+            "stores": [
                 {
-                    "id": "widget_1",
-                    "title": "محصولات پیشنهادی دیجی‌کالا",
-                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5387298556403340230'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5387298556403340230'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5387298556403340230',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                    "store": "Digikala",
+                    "widgets": [
+                        {
+                            "id": "widget_1",
+                            "title": "محصولات پیشنهادی دیجی‌کالا",
+                            "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5387298556403340230'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5387298556403340230'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5387298556403340230',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                        }
+                    ]
+                },
+                {
+                    "store": "Janebi",
+                    "widgets": [
+                        {
+                            "id": "widget_2",
+                            "title": "محصولات پیشنهادی جانبی",
+                            "rawHTMLs": [
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5267354183017829288'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5267354183017829288'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5267354183017829288',widget_type:'ProductWidget',widget_id: '5375952345491856513',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->",
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_4712767468004512948'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?4712767468004512948'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_4712767468004512948',widget_type:'ProductWidget',widget_id: '4854351270371498073',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                            ]
+                        }
+                    ]
                 }
             ]
         },
