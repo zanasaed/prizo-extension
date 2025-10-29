@@ -7,21 +7,16 @@
             "title": "صفحه اصلی",
             "banners": [
                 {
-                    "widget_id": "5523374828918937633",
-                    "container_id": "affilio_5679228794611297293",
-                    "type": "BannerWidget",
-                    "script_src": "https://widget.affilio.ir/lib.js?5679228794611297293"
+                    "id": "banner_1",
+                    "title": "بنر تبلیغاتی اصلی",
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5679228794611297293'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5679228794611297293'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5679228794611297293',widget_type:'BannerWidget',widget_id: '5523374828918937633',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
                 }
             ],
             "widgets": [
                 {
-                    "widget_id": "4696259076390136968",
-                    "container_id": "affilio_5387298556403340230",
-                    "type": "ProductWidget",
-                    "title": "محصولات پیشنهادی",
-                    "store": "digikala",
-                    "category": "electronics",
-                    "script_src": "https://widget.affilio.ir/lib.js?5387298556403340230"
+                    "id": "widget_1",
+                    "title": "محصولات پیشنهادی دیجی‌کالا",
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5387298556403340230'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5387298556403340230'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5387298556403340230',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
                 }
             ]
         },
