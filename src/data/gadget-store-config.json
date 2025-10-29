@@ -9,7 +9,7 @@
                 {
                     "id": "banner_1",
                     "title": "بنر تبلیغاتی اصلی",
-                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5679228794611297293'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5679228794611297293'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5679228794611297293',widget_type:'BannerWidget',widget_id: '5523374828918937633',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
+                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5427352525072379294'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5427352525072379294'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5427352525072379294',widget_type:'BannerWidget',widget_id: '5523374828918937633',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
                 }
             ],
             "widgets": [
