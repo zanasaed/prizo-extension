@@ -7,11 +7,6 @@
             "title": "صفحه اصلی",
             "banners": [
                 {
-                    "id": "banner_1",
-                    "title": "بنر تبلیغاتی اصلی",
-                    "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5220418751877174161'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5220418751877174161'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5220418751877174161',widget_type:'BannerWidget',widget_id: '5349358080724972613',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
-                },
-                {
                     "id": "banner_2",
                     "title": "فصل پاییزه، قیمت‌ها می‌ریزه!",
                     "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5749226988824738990'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5749226988824738990'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5749226988824738990',widget_type:'BannerWidget',widget_id: '5720799954924634479',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
