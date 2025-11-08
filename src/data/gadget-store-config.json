@@ -29,7 +29,10 @@
                         {
                             "id": "widget_1",
                             "title": "محصولات پیشنهادی دیجی‌کالا",
-                            "rawHTML": "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5387298556403340230'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5387298556403340230'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5387298556403340230',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                            "rawHTML": [
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5387298556403340230'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5387298556403340230'></script><script type = 'text/javascript'>Affilio.widget({autosize: true,container_id:'affilio_5387298556403340230',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->",
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_4722009937966689171'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?4722009937966689171'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_4722009937966689171',widget_type:'ProductWidget',widget_id: '5462562734677582879',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                            ]
                         }
                     ]
                 },
@@ -41,7 +44,21 @@
                             "title": "محصولات پیشنهادی جانبی",
                             "rawHTMLs": [
                                 "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5267354183017829288'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5267354183017829288'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5267354183017829288',widget_type:'ProductWidget',widget_id: '5375952345491856513',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->",
-                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_4712767468004512948'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?4712767468004512948'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_4712767468004512948',widget_type:'ProductWidget',widget_id: '4854351270371498073',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_4712767468004512948'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?4712767468004512948'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_4712767468004512948',widget_type:'ProductWidget',widget_id: '4854351270371498073',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->",
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5002719766955343738'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5002719766955343738'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5002719766955343738',widget_type:'ProductWidget',widget_id: '4892821312703629529',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "store": "Snapshop",
+                    "widgets": [
+                        {
+                            "id": "widget_3",
+                            "title": "محصولات پیشنهادی اسنپ شاپ",
+                            "rawHTML": [
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5410082833970785855'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5410082833970785855'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5410082833970785855',widget_type:'ProductWidget',widget_id: '5568341422763048879',redirect_type: 'ProductPage',url: '',is_smart: true,})</script></div><!-- Affilio Widget END -->",
+                                "<!-- Affilio Widget BEGIN --><div class='affilio-widget-container'><div id = 'affilio_5446525388987066129'></div><script type='text/javascript' src='https://widget.affilio.ir/lib.js?5446525388987066129'></script><script type = 'text/javascript'>Affilio.widget({autosize: true, container_id:'affilio_5446525388987066129',widget_type:'ProductWidget',widget_id: '4696259076390136968',redirect_type: 'ProductPage',url: '',is_smart: false,})</script></div><!-- Affilio Widget END -->"
                             ]
                         }
                     ]
