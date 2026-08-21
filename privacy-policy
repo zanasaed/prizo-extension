@@ -1,0 +1,190 @@
+# Prizo Privacy Policy
+
+**Last updated:** August 21, 2026
+
+Prizo ("Prizo", "we", "our", or "the extension") is a browser extension that helps users compare and monitor prices on Digikala.
+
+This Privacy Policy explains what information Prizo handles, how it is used, where it is stored, and whether it is shared with third parties.
+
+## 1. Information Prizo Handles
+
+Prizo is designed to minimize the collection of personal information.
+
+Depending on the features used, Prizo may handle the following types of data:
+
+### 1.1 Product and Price Data
+
+Prizo retrieves publicly available product information from Digikala, including:
+
+* Product name
+* Product ID
+* Product URL
+* Product image
+* Current price
+* Original/reference price
+* Discount percentage
+* Availability status
+* Digikala's reported lowest price during the previous month
+* Seller and shipping information when required by supported features
+
+This information is used exclusively to provide price comparison, price tracking, watchlist, and related shopping features.
+
+### 1.2 User-Created Watchlists and Monitoring Data
+
+When a user chooses to use Prizo's watchlist or price-monitoring features, Prizo stores information necessary to provide those features, such as:
+
+* Products added to a watchlist
+* Pages configured for monitoring
+* Price-monitoring rules and thresholds
+* Previously observed product prices
+* Product snapshots used to detect price changes
+* Notification and monitoring results
+* User preferences related to these features
+
+This information is created as a result of the user's actions and is stored locally in the user's browser.
+
+### 1.3 Price History
+
+Prizo maintains its own local price history to provide price charts, price trends, and price-monitoring features.
+
+Price history may include:
+
+* Product ID
+* Price
+* Previous/reference price
+* Discount information
+* Timestamp
+* Source information
+
+This data is stored locally in the browser and is used to provide Prizo's price-history functionality.
+
+### 1.4 Authentication and Shopping Data
+
+Some Prizo features may interact with Digikala features that require the user to already be signed in to Digikala.
+
+When such features are used, Prizo may make authenticated requests to Digikala on the user's behalf using the browser's existing authentication context.
+
+Prizo does not collect or store the user's Digikala password.
+
+## 2. How Prizo Uses Information
+
+Prizo uses the information described above only to provide and improve its shopping-related functionality, including:
+
+* Displaying product and price information
+* Comparing product prices
+* Displaying price history and trends
+* Monitoring products and pages
+* Detecting price changes
+* Detecting prices approaching or reaching monitoring thresholds
+* Displaying lowest-price information
+* Generating price notifications
+* Managing the user's watchlist
+* Analyzing supported shopping-cart information
+* Providing other features explicitly initiated or enabled by the user
+
+Prizo does not use user data for unrelated advertising, behavioral profiling, or selling personal information.
+
+## 3. Local Storage
+
+Prizo stores user-created application data locally in the browser.
+
+Depending on the type of data, Prizo uses browser-provided local storage mechanisms such as:
+
+* `chrome.storage.local`
+* IndexedDB
+
+Local storage may contain watchlists, monitoring configurations, monitoring snapshots, notification results, preferences, and locally collected price history.
+
+This local data is used to maintain Prizo's functionality between browser sessions.
+
+Prizo does not upload this locally stored application data to a Prizo-operated remote server.
+
+## 4. Network Requests
+
+To provide its functionality, Prizo makes requests to supported services, primarily Digikala.
+
+These requests may retrieve publicly available product and price information from Digikala. Some features may also make authenticated requests to Digikala when the user explicitly uses functionality that depends on their Digikala account or shopping session.
+
+Prizo does not operate a proxy service that collects or stores the user's browsing activity.
+
+## 5. Data Sharing
+
+Prizo does **not sell, rent, or share users' personal information with third parties for advertising or marketing purposes.
+
+Prizo does not provide user-created watchlists, price histories, monitoring configurations, or other locally stored application data to third parties.
+
+When Prizo communicates with Digikala, the communication is limited to requests necessary to provide the relevant Prizo feature.
+
+## 6. Personal Information
+
+Prizo does not require users to create a Prizo account.
+
+Prizo does not intentionally collect or store:
+
+* Passwords
+* Payment card numbers
+* Banking credentials
+* Government identification numbers
+* Personal contacts
+* Email address books
+* Private messages
+* Browsing history unrelated to Prizo's functionality
+
+If a supported Digikala feature requires authentication, Prizo relies on the user's existing Digikala browser session rather than collecting the user's Digikala password.
+
+## 7. Permissions
+
+Prizo requests browser permissions only when they are necessary for its functionality.
+
+Examples include:
+
+* **Storage:** Used to store user preferences, watchlists, monitoring configurations, and related application data locally.
+* **Unlimited Storage:** Used when the amount of locally stored user-created monitoring data can exceed the normal extension storage quota.
+* **Notifications:** Used to notify users about price changes and monitoring events.
+* **Alarms:** Used to perform scheduled price-monitoring checks.
+* **Tabs / Active Tab / Scripting:** Used to interact with supported Digikala pages and provide Prizo's features.
+* **Host permissions:** Used to retrieve supported product and price information from Digikala.
+
+These permissions are not used to collect unrelated browsing information.
+
+## 8. Data Retention and Deletion
+
+Prizo retains locally stored data for as long as it is needed to provide the corresponding feature or until the user removes it.
+
+Users can remove products from their watchlist and delete locally stored Prizo data through the extension or by removing the extension's browser data.
+
+Because the primary application data is stored locally in the user's browser, uninstalling Prizo may remove the locally stored extension data according to the browser's extension-data handling behavior.
+
+## 9. Children's Privacy
+
+Prizo is not directed specifically at children and does not knowingly collect personal information from children.
+
+## 10. Security
+
+Prizo is designed to minimize the amount of user information that leaves the user's browser.
+
+User-created watchlists, monitoring configurations, and price history are stored locally rather than being transmitted to a Prizo-operated backend.
+
+However, no software or browser storage mechanism can be guaranteed to be completely secure. Users should keep their browser and operating system up to date and use appropriate security practices.
+
+## 11. Changes to This Privacy Policy
+
+This Privacy Policy may be updated when Prizo's data practices or functionality change.
+
+If a change materially affects how user data is handled, the updated policy will be published in this repository and, where appropriate, disclosed through the Chrome Web Store listing or extension interface.
+
+The "Last updated" date at the top of this document indicates the latest revision.
+
+## 12. Contact
+
+For questions, privacy concerns, or requests regarding Prizo, please contact the project maintainer through the project's GitHub repository:
+
+https://github.com/zanasaed/prizo-extension
+
+You can also report issues through the repository's GitHub Issues section.
+
+---
+
+**Prizo**
+Digikala Price Tracking & Shopping Assistant
+https://github.com/zanasaed/prizo-extension
